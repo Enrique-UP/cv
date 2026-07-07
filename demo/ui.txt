@@ -1,0 +1,48 @@
+Web UI Html Developer
+Designs and develops web pages
+Advanced knowledge of HTML and HTML5
+Advanced knowledge of CSS 2 and CSS 3 including media queries and animations
+Advanced knowledge of responsive web design techniques including CSS responsive design frameworks preferably Bootstrap
+Knowledge of CSS pre-processors such as SASS
+Awareness of JavaScript & jQuery
+Excellent problem solving abilities
+Strong knowledge of Web development technologies, including HTML5, JavaScript, jQuery and CSS3
+Design and code high-quality, responsive email templates
+Demonstrated ability in designing dynamic HTML5 elements from scratch
+Ability to design web pages and handle CSS and Javascript code
+Remarkable knowledge of graphic designing and image editing
+• Strong coding skills, ability to work independently and a very good team player too.
+
+Notepad ++, Brackets, Sublime text.
+•	Cross browser and multiple device testing.
+•	Version Control		: Winscp and Filezilla.
+
+
+
+Worked on various website projects from medical, to insurance, and banking
+Constructed CSS based layouts and worked with javascript and Php for creating dynamic websites
+Created website banners for logos for clients
+
+PERSONAL PROFILE:
+Hobbies : Drawing, Regular Meditation.
+STRENGTHS:
+ Self-Motivation.
+ Zeal to learn new technologies.
+ Disciplined & Good team player.
+ Very flexible and can adjust myself to different work environments.
+
+
+
+
+HTML5 ,CSS3,Bootstrap,JavaScript,JQuery,SASS,
+		   Angular 2, Ionic 3, Semantic UI.
+Reactstrap
+Vuetify
+Ag-grid, Material UI and Vbootstrap
+IONICframework.
+
+
+
+
+experience summary
+I have an overall more than 6 years.

@@ -1,0 +1,39 @@
+ES6+
+TypeScript
+I Questions
+Tailwind css
+Material ui
+REST API Integration (GET, POST, PUT, DELETE)
+Angular js
+React js hooks, STATE
+Redux (Javascript Library)
+Create object/api from given html, session storage, display in other page html.
+
+careers@cubastion.com
+
+HTML5, CSS3, SASS, Bootstrap, Tailwind CSS, JavaScript (ES6+), React.js, Responsive Design, CSS Grid, Flexbox, Git, REST API Integration, Cross-browser Compatibility, Performance Optimization, and Accessibility WCAG (Web Content Accessibility Guidelines).
+
+
+HTML5, CSS3, JavaScript, jQuery, AMP (Accelerated Mobile Pages), Pug (Jade), Bootstrap, SASS/SCSS, and Responsive Web Design, Front-End Performance Optimization, Page-Speed Optimization, Cross-Browser Compatibility, and UI/UX Implementation.
+
+
+Frontend Developer Application
+Hi,
+
+Please find my resume attached for the Frontend Developer position. I have 11+ years of experience in HTML5, CSS3, JavaScript (ES6+), React.js, responsive UI development, and performance optimization.
+
+Looking forward to hearing from you.
+
+Thanks & Regards,
+Nomaan Arif
+Mob: +91 8745 999 480
+Email: nomaanarif786@gmail.com
+
+122022
+The workload is very low, so I’m changing jobs.
+
+site:naukri.com "UI Developer" -"Web Designer" -"HTML Developer" -"Frontend Developer"
+freshness 7 days
+sort by date
+
+
