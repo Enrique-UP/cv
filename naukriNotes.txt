@@ -49,6 +49,16 @@ sort by date
 
 
 ==================================================================================================================================
+Technical Lead - Techops
+Recruiting@bold.com
+--------
+Applicants must be mature,diligent,responsible & technically outstanding
+Should have the ability to understand ins and outs of the website quickly
+Good knowledge JQuery,JavaScript,HTML (coding email templates is advantage)
+Experience with both client-side and server-side Google Tag Manager (GTM) implementations
+---
+
+
 UI Architect
 mohdsharafat@ibcscorp.com 
 
