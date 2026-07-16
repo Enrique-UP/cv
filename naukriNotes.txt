@@ -8,6 +8,10 @@ Angular js
 React js hooks, STATE
 Redux (Javascript Library)
 Create object/api from given html, session storage, display in other page html.
+------------
+REST API Integration
+TypeScript
+------------
 
 careers@cubastion.com
 
@@ -43,3 +47,32 @@ freshness 7 days
 sort by date
 
 
+
+==================================================================================================================================
+UI Architect
+mohdsharafat@ibcscorp.com 
+
+Senior Full Stack Engineer
+careers@gan.studio 
+
+
+Custom Software Engineer
+https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-7-to-12-years-140726931457?src=cluster&sid=17841780080328275_6&xp=20&px=2&nignbevent_src=jobsearchDeskGNB
+
+
+Custom Software Engineer
+https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-7-to-12-years-140726931457?src=cluster&sid=17841818748993755_13&xp=3&px=1&nignbevent_src=jobsearchDeskGNB
+
+
+Walk-in || Ui Ux Design Team Lead
+Megamax Services
+4.1112 Reviews
+Company Logo
+12 - 20 years
+Not Disclosed
+Delhi / NCR, Noida, Ghaziabad
+Time and Venue
+16th July - 17th July , 12.00 PM - 4.00 PM
+B-40, Block B, Sector 57, Noida, Uttar Pradesh 201309
+Contact - Pooja Singh ( 7880775832 )
+==================================================================================================================================
