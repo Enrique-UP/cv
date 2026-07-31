@@ -1,3 +1,37 @@
+==================================================================================================================================
+Keywords
+==================================================================================================================================
+site:naukri.com "UI Developer" -"Web Designer" -"HTML Developer" -"Frontend Developer"
+freshness 7 days
+sort by date
+Walk-in
+
+
+ui
+web designer
+frontend/front end 
+
+Senior UI Developer
+Lead UI Developer
+Principal UI Developer
+UI Engineering Lead
+Frontend Lead
+==================================================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ES6+
 TypeScript
 I Questions
@@ -40,13 +74,9 @@ Email: nomaanarif786@gmail.com
 
 The workload is very low, so I’m changing jobs.
 
+EaseMyTrip is a top travel brand, and I want to use my UI skills to help create the best possible experience for users.
+
 I have over 11 years of experience as a UI Developer. I have strong skills in HTML, CSS, JavaScript, Responsive Design, and React. I am hardworking, a quick learner, and I always give my best to complete my work efficiently.
-
-site:naukri.com "UI Developer" -"Web Designer" -"HTML Developer" -"Frontend Developer"
-freshness 7 days
-sort by date
-
-
 
 ==================================================================================================================================
 Technical Lead - Techops
@@ -83,4 +113,7 @@ JOB-C0148-20260429-0001
 ==================================================================================================================================
 Custom Software Engineer
 https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-15-to-20-years-270726922365?src=cluster&sid=17854034889258886_17&xp=20&px=1&nignbevent_src=jobsearchDeskGNB
+https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-15-to-20-years-270726922365?src=cluster&sid=17854034889258886_19&xp=11&px=1&nignbevent_src=jobsearchDeskGNB
+
+
 
