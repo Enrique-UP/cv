@@ -1,6 +1,17 @@
 ==================================================================================================================================
 Keywords
 ==================================================================================================================================
+Senior UI Engineer
+Frontend UI Architect
+Senior Frontend Developer (React / UI)
+Design Systems Engineer (Kyunki aapne Design Systems mention kiya hai, iski bohot high demand hai!)
+UI/UX Developer (Jahan HTML/CSS/JS/Bootstrap/Sass maanga ho)
+
+
+
+
+
+
 site:naukri.com "UI Developer" -"Web Designer" -"HTML Developer" -"Frontend Developer"
 freshness 7 days
 sort by date
@@ -16,6 +27,13 @@ Lead UI Developer
 Principal UI Developer
 UI Engineering Lead
 Frontend Lead
+==================================================================================================================================
+Learning Path
+Step 1:-	HTML, CSS, JavaScript (ES6+ & Advanced Js), React JS (Hooks, State Management: Redux Toolkit or Zustand)
+Step 2:-	Interviews Questions & Answers
+			Interview Questions (JS & React):
+			Advanced JavaScript ke interview questions (jaise Closures, Event Bubbling, Promises, Prototypal Inheritance) aur React ke core concepts (Virtual DOM, Hooks working, Performance optimization jaise useMemo aur useCallback) acche se prepare karein.
+			Senior level par interviewer aksar system design ya architecture wale sawal bhi poochta hai ki ek bada frontend project kaise structure kiya jata hai.
 ==================================================================================================================================
 
 
