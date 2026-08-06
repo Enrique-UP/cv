@@ -28,8 +28,8 @@ Principal UI Developer
 UI Engineering Lead
 Frontend Lead
 ==================================================================================================================================
-Learning Path
-Step 1:-	HTML, CSS, JavaScript (ES6+ & Advanced Js), React JS (Hooks, State Management: Redux Toolkit or Zustand)
+Learning Path => Mern/Full Stack Developer (MongoDB ExpressJs ReactJs NodeJs)
+Step 1:-	HTML, CSS, JavaScript (ES6+ & Advanced Js), React JS (Hooks, State Management: Redux Toolkit or Zustand), Node.js, Next.js, Express.js, MongoDB
 Step 2:-	Interviews Questions & Answers
 			Interview Questions (JS & React):
 			Advanced JavaScript ke interview questions (jaise Closures, Event Bubbling, Promises, Prototypal Inheritance) aur React ke core concepts (Virtual DOM, Hooks working, Performance optimization jaise useMemo aur useCallback) acche se prepare karein.
