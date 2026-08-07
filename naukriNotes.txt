@@ -8,10 +8,6 @@ Design Systems Engineer (Kyunki aapne Design Systems mention kiya hai, iski boho
 UI/UX Developer (Jahan HTML/CSS/JS/Bootstrap/Sass maanga ho)
 
 
-
-
-
-
 site:naukri.com "UI Developer" -"Web Designer" -"HTML Developer" -"Frontend Developer"
 freshness 7 days
 sort by date
@@ -37,19 +33,6 @@ Step 2:-	Interviews Questions & Answers
 ==================================================================================================================================
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ES6+
 TypeScript
 I Questions
@@ -60,18 +43,15 @@ Angular js
 React js hooks, STATE
 Redux (Javascript Library)
 Create object/api from given html, session storage, display in other page html.
-------------
+------------------------------------
 REST API Integration
 TypeScript
-------------
+------------------------------------
 
-careers@cubastion.com
-
-HTML5, CSS3, SASS, Bootstrap, Tailwind CSS, JavaScript (ES6+), React.js, Responsive Design, CSS Grid, Flexbox, Git, REST API Integration, Cross-browser Compatibility, Performance Optimization, and Accessibility WCAG (Web Content Accessibility Guidelines).
-
-
+HTML5, CSS3, SASS/SCSS, Bootstrap, Tailwind CSS, JavaScript (ES6+), React.js, Responsive Design, CSS Grid, Flexbox, Git, REST API Integration, Cross-browser Compatibility, Performance Optimization, and Accessibility WCAG (Web Content Accessibility Guidelines).
 HTML5, CSS3, JavaScript, jQuery, AMP (Accelerated Mobile Pages), Pug (Jade), Bootstrap, SASS/SCSS, and Responsive Web Design, Front-End Performance Optimization, Page-Speed Optimization, Cross-Browser Compatibility, and UI/UX Implementation.
 
+==================================================================================================================================
 
 Frontend Developer Application
 Hi,
@@ -85,7 +65,7 @@ Nomaan Arif
 Mob: +91 8745 999 480
 Email: nomaanarif786@gmail.com
 
-
+==================================================================================================================================
 
 
 122022
@@ -97,41 +77,3 @@ EaseMyTrip is a top travel brand, and I want to use my UI skills to help create 
 I have over 11 years of experience as a UI Developer. I have strong skills in HTML, CSS, JavaScript, Responsive Design, and React. I am hardworking, a quick learner, and I always give my best to complete my work efficiently.
 
 ==================================================================================================================================
-Technical Lead - Techops
-Recruiting@bold.com
-
-https://my.greenhouse.io/users/sign_in
---------
-Applicants must be mature,diligent,responsible & technically outstanding
-Should have the ability to understand ins and outs of the website quickly
-Good knowledge JQuery,JavaScript,HTML (coding email templates is advantage)
-Experience with both client-side and server-side Google Tag Manager (GTM) implementations
----
-
-
-
-Custom Software Engineer
-https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-7-to-12-years-140726931457?src=cluster&sid=17841780080328275_6&xp=20&px=2&nignbevent_src=jobsearchDeskGNB
-
-
-Custom Software Engineer
-https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-7-to-12-years-140726931457?src=cluster&sid=17841818748993755_13&xp=3&px=1&nignbevent_src=jobsearchDeskGNB
-
-
-==================================================================================================================================
-
-JOB-C0140-20260417-0001
-JOB-C0206-20260621-0002
-JOB-C0206-20260621-0001
-JOB-C0148-20260407-0008
-JOB-C0148-20260407-0007
-JOB-C0148-20260330-0002
-JOB-C0148-20260429-0001
-
-==================================================================================================================================
-Custom Software Engineer
-https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-15-to-20-years-270726922365?src=cluster&sid=17854034889258886_17&xp=20&px=1&nignbevent_src=jobsearchDeskGNB
-https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-15-to-20-years-270726922365?src=cluster&sid=17854034889258886_19&xp=11&px=1&nignbevent_src=jobsearchDeskGNB
-
-
-
