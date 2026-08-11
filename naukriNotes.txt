@@ -42,6 +42,7 @@ REST API Integration (GET, POST, PUT, DELETE)
 Angular js
 React js hooks, STATE
 Redux (Javascript Library)
+-------React native------
 Create object/api from given html, session storage, display in other page html.
 ------------------------------------
 REST API Integration
