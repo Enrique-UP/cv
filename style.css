@@ -21,7 +21,7 @@ ul.unorder, ol.order{width:100%;float:left;margin-bottom: 20px;padding:0 0 0 16p
 div.full_width{width:100%;float:left;padding-left:0;}
 div.full_width div.full_width{padding-left:0;}
 ul.unorder > li{width:100%;float:left;list-style: disc;margin-bottom: 5px;text-align: justify;}
-.m_b_30{margin-bottom: 32px;}
+.m_b_30{margin-bottom: 32px !important;}
 .m_b_0{margin-bottom: 0;}
 ol.order.m_b{margin-bottom: 5px;}
 ul.order.m_b{margin-bottom: 5px;}
