@@ -49,6 +49,7 @@ Express Js
 MongoDB
 Flutter (dart language)
 -------React native------
+ci/cd, continuous integrationalgorithmskubernetes
 Create object/api from given html, session storage, display in other page html.
 ------------------------------------
 REST API Integration
