@@ -50,7 +50,13 @@ MongoDB
 Flutter (dart language)
 -------React native------
 ci/cd, continuous integrationalgorithmskubernetes
+------------------------------------
+axios, bcryptjs, postman/thunder client
+------------------------------------
+
+
 Create object/api from given html, session storage, display in other page html.
+------------------------------------
 ------------------------------------
 REST API Integration
 TypeScript
